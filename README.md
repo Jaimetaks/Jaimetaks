@@ -24,7 +24,7 @@ As someone said:
 
 
 ## Formación lista
-* Master profesorado [Experiencia](master.md)
+* Master profesorado [Experiencia](Master.md)
 * Grado náutica 
 
 
